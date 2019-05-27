@@ -113,6 +113,7 @@ public class CadastrarAnuncioActivity extends AppCompatActivity
                 }
 
                 dialog.dismiss();
+                finish();
                 return imagemAnuncio.getDownloadUrl();
 
             }
