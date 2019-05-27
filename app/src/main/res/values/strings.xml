@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SOS Amigo Bicho</string>
+    <string name="title_activity_meus_anunciosa">Meus anúncios</string>
+
+    <string-array name="regioes">
+        <item>Araraquara</item>
+        <item>Americo Brasiliense</item>
+        <item>Campinas</item>
+        <item>Franca</item>
+        <item>Matão</item>
+        <item>Ribeirão Preto</item>
+        <item>São Carlos</item>
+        <item>Taquaritinga</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>Encontrados</item>
+        <item>Perdidos</item>
+        <item>Adoção</item>
+    </string-array>
+
+</resources>

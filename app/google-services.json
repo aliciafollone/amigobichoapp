@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9848841736",
+    "firebase_url": "https://amigobichoapp.firebaseio.com",
+    "project_id": "amigobichoapp",
+    "storage_bucket": "amigobichoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9848841736:android:3c06984526ddcea9",
+        "android_client_info": {
+          "package_name": "com.amigobicho.com.example.thetwins.amigobichoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9848841736-ff55bkavk38butec9g3m3io65c522maj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amigobicho.com.example.thetwins.amigobichoapp",
+            "certificate_hash": "da874f2d2b70cb26ca1482ed6793e3ccca220b61"
+          }
+        },
+        {
+          "client_id": "9848841736-18rpo5c91k46qmttnk9nmnpnfc65sdle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldvMNbjQ0WCBzsfDJyO2JV-KHLjH-Kwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9848841736-18rpo5c91k46qmttnk9nmnpnfc65sdle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
